@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SharmaDhruv2511
-- 👀 I’m interested in Android Devlopment 
-- 🌱 I’m currently learning Android devlopment in java using Android
+- 👀 I’m a Android Devloper
 - 💞️ I’m looking to collaborate in the open source programs which pursuie Android , Java
 - 📫 How to reach me ... You can contact me on Github and You can also mail me at sharmadhruv2511@gmail.com
 
