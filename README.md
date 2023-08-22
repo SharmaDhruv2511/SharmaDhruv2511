@@ -27,3 +27,4 @@ I'm currently working on Android, Android Studio, Firebase, Google Cloud Platfor
 <!-- [![](https://visitcount.itsvg.in/api?id=SharmaDhruv2511&icon=0&color=0)](https://visitcount.itsvg.in)
  -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![SharmaDhruv2511's GitHub | Topics Over Time](https://stats.quine.sh/SharmaDhruv2511/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SharmaDhruv2511)
